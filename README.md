@@ -67,4 +67,4 @@ Node render system is what powers such extensive capabilities. All layers, effec
     <a href="https://twitter.com/PixiEditor" target="_blank"><img src="https://newsletter.pixieditor.net/uploads/twitter.png" alt="twitter" width=50/></a>&nbsp;&nbsp;&nbsp;
     <a href="https://www.reddit.com/r/PixiEditor" target="_blank"><img src="https://newsletter.pixieditor.net/uploads/reddit.png" alt="reddit" width=50/></a>&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/company/pixieditor" target="_blank"><img src="https://newsletter.pixieditor.net/uploads/linkedin.png" alt="linkedin" width=50/></a>
-</div>
+</div>;
